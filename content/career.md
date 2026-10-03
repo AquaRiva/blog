@@ -1,5 +1,5 @@
 ---
-title: 경력 상세
+title: career
 description: (주)인사이드정보에서 Nutanix 엔지니어로 수행한 구축, 업그레이드, 장애 대응 경험 정리
 draft: false
 tags: [career]
